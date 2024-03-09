@@ -16,6 +16,7 @@ This project is a UI and API test automation suite. It includes both happy path 
 
 - [.NET SDK](https://dotnet.microsoft.com/download) installed.
 - [Visual Studio](https://visualstudio.microsoft.com/) or any preferred IDE.
+- Ensure [WebDriver](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/) is installed.
 
 ### Installation
 
@@ -26,8 +27,7 @@ This project is a UI and API test automation suite. It includes both happy path 
 
 ## Running Tests
 
-1. Ensure [WebDriver](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/) is installed.
-2. Open the Test Explorer in Visual Studio.
-3. Run all tests or select specific tests to execute.
+1. Open the Test Explorer in Visual Studio.
+2. Run all tests or select specific tests to execute.
 
 
