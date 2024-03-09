@@ -475,3 +475,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore Visual Studio directory
+.vs/
+
+# Ignore EditorConfig file
+.editorconfig
